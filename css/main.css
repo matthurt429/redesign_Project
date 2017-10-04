@@ -57,3 +57,61 @@ ul{
     right:25px;
     bottom: 50px;
 }
+#hulk{
+    height: 300px;
+    width: 470px;
+}
+.bat_and_kylo{
+    height: 300px;
+    width: 250px;
+    position: relative;
+    right:4px;
+}
+#kylo{
+    position: relative;
+    right:4px;
+}
+#bat{
+    position: relative;
+    right:10px;
+}
+#gru{
+    height:300px;
+    width: 188px;
+    position: relative;
+    right:16px;
+}
+.images{
+    position: relative;
+    bottom:40px;
+}
+.product_text strong{
+    font-size:16px;
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: 1.5px;
+    text-align: center;
+    
+
+}
+.product_image img{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    right:50px;
+}
+.game_comic img{
+    height: 200px;
+    width: 150px;
+    position: relative;
+    top: 30px;
+    right:40px;
+}
+.game_comic strong{
+    position: relative;
+    top: 50px;
+    
+}
+#game{
+    position: relative;
+    right:80px;
+}
